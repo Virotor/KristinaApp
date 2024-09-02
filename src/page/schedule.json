@@ -1,0 +1,196 @@
+{
+    "schedule": [
+        {
+            "day": "Понедельник",
+            "lessons": [
+                {
+                    "key": "1",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "9:00",
+                    "endTime": "10:00", 
+                    "note" : []
+                },
+                {
+                    "key": "2",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "10:00",
+                    "endTime": "11:00", 
+                    "note" : []
+                },
+                {
+                    "key": "3",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "11:00",
+                    "endTime": "12:00", 
+                    "note" : []
+                }
+            ]
+        },
+        {
+            "day": "Вторник",
+            "lessons": [
+                {
+                    "key": "4",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "9:00",
+                    "endTime": "10:00", 
+                    "note" : []
+                },
+                {
+                    "key": "5",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "10:00",
+                    "endTime": "11:00", 
+                    "note" : []
+                },
+                {
+                    "key": "6",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "11:00",
+                    "endTime": "12:00", 
+                    "note" : []
+                }
+            ]
+        },
+        {
+            "day": "Среда",
+            "lessons": [
+                {
+                    "key": "7",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "9:00",
+                    "endTime": "10:00", 
+                    "note" : []
+                },
+                {
+                    "key": "8",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "10:00",
+                    "endTime": "11:00", 
+                    "note" : []
+                },
+                {
+                    "key": "9",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "11:00",
+                    "endTime": "12:00", 
+                    "note" : []
+                }
+            ]
+        },
+        {
+            "day": "Четверг",
+            "lessons": [
+                {
+                    "key": "10",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "9:00",
+                    "endTime": "10:00", 
+                    "note" : []
+                },
+                {
+                    "key": "11",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "10:00",
+                    "endTime": "11:00", 
+                    "note" : []
+                },
+                {
+                    "key": "12",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "11:00",
+                    "endTime": "12:00", 
+                    "note" : []
+                }
+            ]
+        },
+        {
+            "day": "Пятница",
+            "lessons": [
+                {
+                    "key": "13",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "9:00",
+                    "endTime": "10:00", 
+                    "note" : []
+                },
+                {
+                    "key": "14",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "10:00",
+                    "endTime": "11:00", 
+                    "note" : []
+                },
+                {
+                    "key": "15",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "11:00",
+                    "endTime": "12:00", 
+                    "note" : []
+                }
+            ]
+        },
+        {
+            "day": "Суббота",
+            "lessons": [
+                {
+                    "key": "16",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "9:00",
+                    "endTime": "10:00", 
+                    "note" : []
+                },
+                {
+                    "key": "17",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "10:00",
+                    "endTime": "11:00", 
+                    "note" : []
+                },
+                {
+                    "key": "18",
+                    "subject": "PE",
+                    "room": "612",
+                    "class" : "1A",
+                    "startTime": "11:00",
+                    "endTime": "12:00", 
+                    "note" : []
+                }
+            ]
+        }
+    ]
+}
