@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/KristinaApp/static/css/main.f855e6bc.css",
-    "main.js": "/KristinaApp/static/js/main.ab7056b8.js",
+    "main.css": "/KristinaApp/static/css/main.d0ff9299.css",
+    "main.js": "/KristinaApp/static/js/main.afb1cf91.js",
     "static/js/453.ed3810f9.chunk.js": "/KristinaApp/static/js/453.ed3810f9.chunk.js",
+    "static/media/1686994308_kartin-papik-pro-p-kartinki-tsveti-na-belom-fone-dlya-otkrit-31-removebg-preview.png": "/KristinaApp/static/media/1686994308_kartin-papik-pro-p-kartinki-tsveti-na-belom-fone-dlya-otkrit-31-removebg-preview.004b3d3cbffa2c327977.png",
     "index.html": "/KristinaApp/index.html",
-    "main.f855e6bc.css.map": "/KristinaApp/static/css/main.f855e6bc.css.map",
-    "main.ab7056b8.js.map": "/KristinaApp/static/js/main.ab7056b8.js.map",
+    "main.d0ff9299.css.map": "/KristinaApp/static/css/main.d0ff9299.css.map",
+    "main.afb1cf91.js.map": "/KristinaApp/static/js/main.afb1cf91.js.map",
     "453.ed3810f9.chunk.js.map": "/KristinaApp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ab7056b8.js"
+    "static/css/main.d0ff9299.css",
+    "static/js/main.afb1cf91.js"
   ]
 }
