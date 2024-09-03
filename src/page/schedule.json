@@ -8,8 +8,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "9:00",
-                    "endTime": "10:00", 
+                    "time" : "1-1",
                     "note" : []
                 },
                 {
@@ -17,8 +16,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "10:00",
-                    "endTime": "11:00", 
+                   "time" : "1-1",
                     "note" : []
                 },
                 {
@@ -26,8 +24,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "11:00",
-                    "endTime": "12:00", 
+                    "time" : "1-1",
                     "note" : []
                 }
             ]
@@ -40,8 +37,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "9:00",
-                    "endTime": "10:00", 
+                    "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -49,8 +45,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "10:00",
-                    "endTime": "11:00", 
+                   "time" : "1-1",
                     "note" : []
                 },
                 {
@@ -58,8 +53,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "11:00",
-                    "endTime": "12:00", 
+                    "time" : "1-1",
                     "note" : []
                 }
             ]
@@ -72,8 +66,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "9:00",
-                    "endTime": "10:00", 
+                   "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -81,8 +74,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "10:00",
-                    "endTime": "11:00", 
+                    "time" : "1-1",
                     "note" : []
                 },
                 {
@@ -90,8 +82,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "11:00",
-                    "endTime": "12:00", 
+                    "time" : "1-1",
                     "note" : []
                 }
             ]
@@ -104,8 +95,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "9:00",
-                    "endTime": "10:00", 
+                    "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -113,8 +103,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "10:00",
-                    "endTime": "11:00", 
+                    "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -122,8 +111,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "11:00",
-                    "endTime": "12:00", 
+                    "time" : "1-1",
                     "note" : []
                 }
             ]
@@ -136,8 +124,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "9:00",
-                    "endTime": "10:00", 
+                    "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -145,8 +132,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "10:00",
-                    "endTime": "11:00", 
+                    "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -154,8 +140,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "11:00",
-                    "endTime": "12:00", 
+                    "time" : "1-1",
                     "note" : []
                 }
             ]
@@ -168,8 +153,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "9:00",
-                    "endTime": "10:00", 
+                    "time" : "1-1",
                     "note" : []
                 },
                 {
@@ -177,8 +161,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "10:00",
-                    "endTime": "11:00", 
+                    "time" : "1-1", 
                     "note" : []
                 },
                 {
@@ -186,8 +169,7 @@
                     "subject": "PE",
                     "room": "612",
                     "class" : "1A",
-                    "startTime": "11:00",
-                    "endTime": "12:00", 
+                   "time" : "1-1",
                     "note" : []
                 }
             ]

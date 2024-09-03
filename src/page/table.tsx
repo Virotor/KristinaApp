@@ -15,8 +15,7 @@ interface Lesson {
     subject: string;
     class: string;
     room: string;
-    startTime: string;
-    endTime: string;
+    time : string;
     note: string[];
 }
 
@@ -43,10 +42,21 @@ const columns: TableProps<Lesson>['columns'] = [
         title: 'Время',
         dataIndex: 'room',
         key: 'room',
-        render: (_, record) => <p>{record.startTime} - {record.endTime}</p>,
+        render: (_, record) => <p>{lessonTimes.get(record.time)}</p>,
     },
 ];
 
+const lessonTimes = new Map <string, string>([
+    [ "1-1", "8.00-8.35"],
+    [ "1-2", "8.55-9.30"],
+    [ "1-3", "9.50-10.25"],
+    [ "1-4", "10.45-11.20"],
+    [ "2-1", "8.00-8.45"],
+    [ "2-2", "9.00-9.45"],
+    [ "2-3", "10.00-10.45"],
+    [ "2-4", "11.00-11.45"],
+    [ "2-5", "12.00-12.45"],
+])
 
 const dayOfWeek = [
     {
@@ -106,9 +116,11 @@ const selectStyle: React.CSSProperties = {
 }
 
 const tableStyles: React.CSSProperties = {
-    margin: "10px 10%",
+    margin: "10px 5%",
     padding: "10px",
-    boxShadow: "7px 12px 17px 12px rgba(54, 86, 111, 0.31)",
+    boxShadow: "3px 7px 6px 7px rgba(54, 86, 111, 0.31)",
+    borderRadius : "10px"
+
 }
 
 function TableSchedule() {
@@ -125,9 +137,6 @@ function TableSchedule() {
         setSelectedDay(value)
     };
 
-    const onSearch = (value: string) => {
-        console.log('search:', value);
-    };
 
 
     const takeData = () => {
@@ -140,20 +149,18 @@ function TableSchedule() {
     return (
         <>
             <Select
-                showSearch
                 style={selectStyle}
                 placeholder="Выберите день недели"
                 optionFilterProp="label"
                 defaultValue={convertCurrentDay()}
                 onChange={onChange}
-                onSearch={onSearch}
                 options={dayOfWeek}
             />
             <Table
                 style={tableStyles}
                 columns={columns}
                 dataSource={takeData()}
-                pagination={false} />;
+                pagination={false} />
         </>
     )
 }
