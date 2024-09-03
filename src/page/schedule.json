@@ -5,26 +5,42 @@
             "lessons": [
                 {
                     "key": "1",
-                    "subject": "PE",
+                    "subject": "Музыка",
                     "room": "612",
-                    "class" : "1A",
+                    "class" : "1А",
                     "time" : "1-1",
                     "note" : []
                 },
                 {
                     "key": "2",
-                    "subject": "PE",
+                    "subject": "Музыка",
                     "room": "612",
-                    "class" : "1A",
-                   "time" : "1-1",
+                    "class" : "1Б",
+                   "time" : "1-2",
                     "note" : []
                 },
                 {
                     "key": "3",
-                    "subject": "PE",
+                    "subject": "Человек и мир",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
+                    "class" : "4В",
+                    "time" : "2-3",
+                    "note" : []
+                },
+                {
+                    "key": "4",
+                    "subject": "Человек и мир",
+                    "room": "612",
+                    "class" : "3Б",
+                    "time" : "2-4",
+                    "note" : []
+                },
+                {
+                    "key": "5",
+                    "subject": "Человек и мир",
+                    "room": "612",
+                    "class" : "3Г",
+                    "time" : "2-5",
                     "note" : []
                 }
             ]
@@ -34,26 +50,18 @@
             "lessons": [
                 {
                     "key": "4",
-                    "subject": "PE",
+                    "subject": "Человек и мир",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1", 
+                    "class" : "3A",
+                    "time" : "2-3", 
                     "note" : []
                 },
                 {
                     "key": "5",
-                    "subject": "PE",
+                    "subject": "Человек и мир",
                     "room": "612",
-                    "class" : "1A",
-                   "time" : "1-1",
-                    "note" : []
-                },
-                {
-                    "key": "6",
-                    "subject": "PE",
-                    "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
+                    "class" : "3Д",
+                   "time" : "2-4",
                     "note" : []
                 }
             ]
@@ -63,26 +71,34 @@
             "lessons": [
                 {
                     "key": "7",
-                    "subject": "PE",
+                    "subject": "Человек и мир",
                     "room": "612",
-                    "class" : "1A",
-                   "time" : "1-1", 
+                    "class" : "4Б",
+                   "time" : "2-1", 
                     "note" : []
                 },
                 {
                     "key": "8",
-                    "subject": "PE",
+                    "subject": "Человек и мир",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
+                    "class" : "4А",
+                    "time" : "2-3",
                     "note" : []
                 },
                 {
                     "key": "9",
-                    "subject": "PE",
+                    "subject": "Человек и мир",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
+                    "class" : "4Д",
+                    "time" : "2-4",
+                    "note" : []
+                },
+                {
+                    "key": "10",
+                    "subject": "Человек и мир",
+                    "room": "612",
+                    "class" : "3В",
+                    "time" : "2-5",
                     "note" : []
                 }
             ]
@@ -92,26 +108,34 @@
             "lessons": [
                 {
                     "key": "10",
-                    "subject": "PE",
+                    "subject": "Музыка",
                     "room": "612",
-                    "class" : "1A",
+                    "class" : "1В",
                     "time" : "1-1", 
                     "note" : []
                 },
                 {
                     "key": "11",
-                    "subject": "PE",
+                    "subject": "Музыка",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1", 
+                    "class" : "1Г",
+                    "time" : "1-2", 
                     "note" : []
                 },
                 {
                     "key": "12",
-                    "subject": "PE",
+                    "subject": "Музыка",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
+                    "class" : "1Д",
+                    "time" : "1-3",
+                    "note" : []
+                },
+                {
+                    "key": "13",
+                    "subject": "Человек и мир",
+                    "room": "612",
+                    "class" : "4Г",
+                    "time" : "2-4",
                     "note" : []
                 }
             ]
@@ -121,26 +145,42 @@
             "lessons": [
                 {
                     "key": "13",
-                    "subject": "PE",
+                    "subject": "ОБЖ",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1", 
+                    "class" : "2A",
+                    "time" : "2-1", 
                     "note" : []
                 },
                 {
                     "key": "14",
-                    "subject": "PE",
+                    "subject": "ОБЖ",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1", 
+                    "class" : "2Б",
+                    "time" : "2-2", 
                     "note" : []
                 },
                 {
                     "key": "15",
-                    "subject": "PE",
+                    "subject": "ОБЖ",
                     "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
+                    "class" : "2Д",
+                    "time" : "2-3",
+                    "note" : []
+                },
+                {
+                    "key": "15",
+                    "subject": "ОБЖ",
+                    "room": "612",
+                    "class" : "2Г",
+                    "time" : "2-4",
+                    "note" : []
+                },
+                {
+                    "key": "15",
+                    "subject": "ОБЖ",
+                    "room": "612",
+                    "class" : "2В",
+                    "time" : "2-5",
                     "note" : []
                 }
             ]
@@ -148,30 +188,13 @@
         {
             "day": "Суббота",
             "lessons": [
-                {
-                    "key": "16",
-                    "subject": "PE",
-                    "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1",
-                    "note" : []
-                },
-                {
-                    "key": "17",
-                    "subject": "PE",
-                    "room": "612",
-                    "class" : "1A",
-                    "time" : "1-1", 
-                    "note" : []
-                },
-                {
-                    "key": "18",
-                    "subject": "PE",
-                    "room": "612",
-                    "class" : "1A",
-                   "time" : "1-1",
-                    "note" : []
-                }
+             
+            ]
+        },
+        {
+            "day": "Неделя",
+            "lessons": [
+             
             ]
         }
     ]
