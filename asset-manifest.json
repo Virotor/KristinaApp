@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KristinaApp/static/css/main.f855e6bc.css",
-    "main.js": "/KristinaApp/static/js/main.9caf340a.js",
+    "main.js": "/KristinaApp/static/js/main.b4d8c3ea.js",
     "static/js/453.ed3810f9.chunk.js": "/KristinaApp/static/js/453.ed3810f9.chunk.js",
     "index.html": "/KristinaApp/index.html",
     "main.f855e6bc.css.map": "/KristinaApp/static/css/main.f855e6bc.css.map",
-    "main.9caf340a.js.map": "/KristinaApp/static/js/main.9caf340a.js.map",
+    "main.b4d8c3ea.js.map": "/KristinaApp/static/js/main.b4d8c3ea.js.map",
     "453.ed3810f9.chunk.js.map": "/KristinaApp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9caf340a.js"
+    "static/js/main.b4d8c3ea.js"
   ]
 }
